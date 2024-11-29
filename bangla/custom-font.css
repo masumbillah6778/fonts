@@ -1,7 +1,7 @@
 @font-face {
-  src: url('https://masumbillah6778.github.io/fonts/bangla/mahfuj-kishoreganj.ttf'),
-  src: url('https://masumbillah6778.github.io/fonts/bangla/mahfuj-kishoreganj.woff');
-  font-family: 'bangla/mahfuj-kishoreganj';
+  font-family: 'mahfuj-kishoreganj';
+  src: url('mahfuj-kishoreganj.woff') format('woff'),
+       url('mahfuj-kishoreganj.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
