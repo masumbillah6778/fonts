@@ -1,7 +1,15 @@
-/*============================ Times ============================*/
+/*============================ Times New Roman ============================*/
 @font-face {
-  src: url('https://masumbillah6778.github.io/fonts/english/times.ttf') format('truetype');
+  src: url('https://masumbillah6778.github.io/fonts/english/times-new-roman.ttf') format('truetype');
   font-family: 'times';
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*============================ Times New Roman Bold============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/english/times-new-roman-bold.ttf') format('truetype');
+  font-family: 'timesBold';
   font-weight: normal;
   font-style: normal;
 }
