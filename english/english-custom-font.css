@@ -25,7 +25,7 @@
 /*============================ Sonsieone Regular ============================*/
 @font-face {
   src: url('https://masumbillah6778.github.io/fonts/english/sonsieone-regular.otf') format('truetype');
-  font-family: 'sonsieone;
+  font-family: 'sonsieone';
   font-weight: normal;
   font-style: normal;
 }
@@ -33,7 +33,7 @@
 /*============================ Abrilfatface Regular ============================*/
 @font-face {
   src: url('https://masumbillah6778.github.io/fonts/english/abrilfatface-regular.ttf') format('truetype');
-  font-family: 'abrilfatface;
+  font-family: 'abrilfatface';
   font-weight: normal;
   font-style: normal;
 }
@@ -41,7 +41,15 @@
 /*============================ Love Letters ============================*/
 @font-face {
   src: url('https://masumbillah6778.github.io/fonts/english/love-letters.ttf') format('truetype');
-  font-family: 'love-letters;
+  font-family: 'love-letters';
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*============================ Ultra ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/english/ultra.ttf') format('truetype');
+  font-family: 'ultra';
   font-weight: normal;
   font-style: normal;
 }
