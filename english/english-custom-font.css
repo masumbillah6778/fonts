@@ -30,10 +30,18 @@
   font-style: normal;
 }
 
-/*============================ Omegle ============================*/
+/*============================ Abrilfatface Regular ============================*/
 @font-face {
-  src: url('https://masumbillah6778.github.io/fonts/english/omegle.ttf') format('truetype');
-  font-family: 'omegle;
+  src: url('https://masumbillah6778.github.io/fonts/english/abrilfatface-regular.ttf') format('truetype');
+  font-family: 'abrilfatface;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*============================ Abrilfatface Regular ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/english/abrilfatface-regular.ttf') format('truetype');
+  font-family: 'abrilfatface;
   font-weight: normal;
   font-style: normal;
 }
