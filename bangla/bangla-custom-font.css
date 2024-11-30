@@ -30,4 +30,18 @@
   font-style: normal;
 }
 
+/*============================ Bornomala Bold ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/bangla/bornomala-bold.ttf') format('truetype');
+  font-family: 'bornomala-bold';
+  font-weight: normal;
+  font-style: normal;
+}
 
+/*============================ Mahfuz Bold ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/bangla/bornomala-bold.ttf') format('truetype');
+  font-family: 'bornomala-bold';
+  font-weight: normal;
+  font-style: normal;
+}
