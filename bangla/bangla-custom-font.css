@@ -53,3 +53,35 @@
   font-weight: normal;
   font-style: normal;
 }
+
+/*============================ Bensen Handwtiting ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/bangla/bensen-handwtiting.ttf') format('truetype');
+  font-family: 'bensen-handwtiting';
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*============================ Badhon Jananai 52 ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/bangla/badhon-jananai-52.ttf') format('truetype');
+  font-family: 'badhon-jananai-52';
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*============================ Bodhisatwa ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/bangla/bodhisatwa.ttf') format('truetype');
+  font-family: 'bodhisatwa';
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*============================ kumarkhali MJ ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/bangla/kumarkhali-mj.ttf') format('truetype');
+  font-family: 'kumarkhali-mj';
+  font-weight: normal;
+  font-style: normal;
+}
