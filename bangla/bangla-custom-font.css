@@ -38,10 +38,18 @@
   font-style: normal;
 }
 
-/*============================ Mahfuz Bold ============================*/
+/*============================ Mahfuj AK ============================*/
 @font-face {
-  src: url('https://masumbillah6778.github.io/fonts/bangla/bornomala-bold.ttf') format('truetype');
-  font-family: 'bornomala-bold';
+  src: url('https://masumbillah6778.github.io/fonts/bangla/mahfuj-ak.ttf') format('truetype');
+  font-family: 'mahfuj-ak';
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*============================ Bangla Lipi ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/bangla/bangla-lipi.ttf') format('truetype');
+  font-family: 'bangla-lipi';
   font-weight: normal;
   font-style: normal;
 }
