@@ -53,3 +53,11 @@
   font-weight: normal;
   font-style: normal;
 }
+
+/*============================ Ultra ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/english/english-111-vivace.otf') format('truetype');
+  font-family: '111-vivace';
+  font-weight: normal;
+  font-style: normal;
+}
