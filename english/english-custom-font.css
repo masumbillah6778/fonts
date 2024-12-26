@@ -54,10 +54,19 @@
   font-style: normal;
 }
 
-/*============================ Ultra ============================*/
+/*============================ 111 Vivace ============================*/
 @font-face {
   src: url('https://masumbillah6778.github.io/fonts/english/english-111-vivace.otf') format('truetype');
   font-family: '111-vivace';
   font-weight: normal;
   font-style: normal;
 }
+
+/*============================ Oleoscript ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/english/oleoscript.ttf') format('truetype');
+  font-family: 'oleoscript';
+  font-weight: normal;
+  font-style: normal;
+}
+
