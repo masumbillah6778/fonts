@@ -70,3 +70,18 @@
   font-style: normal;
 }
 
+/*============================ Certificate ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/english/certificate-regular.ttf') format('truetype');
+  font-family: 'certificate';
+  font-weight: normal;;
+  font-style: normal;
+}
+
+/*============================ Certificate Bold ============================*/
+@font-face {
+  src: url('https://masumbillah6778.github.io/fonts/english/certificate-bold.ttf') format('truetype');
+  font-family: 'certificate-bold';
+  font-weight: normal;
+  font-style: normal;
+}
